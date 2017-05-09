@@ -2,7 +2,7 @@
 # Base image
 ################################################################################
 
-FROM andrewmclagan/nginx-hhvm
+FROM andrewmclagan/aphex
 
 MAINTAINER "Ahmed Adel" <a.azab@neutrinos.io>
 
